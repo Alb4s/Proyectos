@@ -7,7 +7,7 @@ class pet():
     def __init__(self):
         self.window = tk.Tk()
         base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
-        gif_path = os.path.join(base_path, 'assets', 'Anissa.gif')
+        gif_path = os.path.join(base_path, 'assets', 'amogus.gif')
 
         self.walking_right = []
         for i in range(120):
