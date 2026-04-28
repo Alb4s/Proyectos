@@ -1,7 +1,5 @@
 import tkinter as tk
-import time
-import sys
-import os
+import time, sys, os
 
 class pet():
     def __init__(self):
